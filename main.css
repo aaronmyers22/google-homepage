@@ -1,0 +1,11 @@
+#searchForm {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 200px 0;
+  text-align: center;
+}
+
+#searchBox {
+	width: 50%;
+}
