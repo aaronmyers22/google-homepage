@@ -9,3 +9,40 @@
 #searchBox {
 	width: 50%;
 }
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+#form_btns {
+	margin-top: 20px;
+}
+
+#google_search_btn {
+	margin-right: 20px;
+}
+
+#feeling_lucky_btn {
+	margin-left: 20px
+}
+
+#bottom_navbar {
+	background-color: grey;
+	position: fixed;
+    bottom: 0;
+    width: 100%;
+}
